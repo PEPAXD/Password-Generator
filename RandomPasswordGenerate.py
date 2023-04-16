@@ -24,7 +24,6 @@ def characters():
 
     #RETURN ARRAY-CHARACTERS
     arrayCharacters = lettersUpper, lettersLower, digits, special
-    print(arrayCharacters)
     return arrayCharacters
 
 #INPUT CHECKTRUE TARGET VARIABLE
